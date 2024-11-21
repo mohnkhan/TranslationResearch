@@ -133,3 +133,9 @@ This is a machine translation with large language models (LLMs) reading list
 * [Improving Machine Translation with Large Language Models: A Preliminary Study with Cooperative Decoding](https://arxiv.org/abs/2311.02851). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023)
 * [On-the-Fly Fusion of Large Language Models and Machine Translation](https://arxiv.org/abs/2311.08306). Hieu Hoang, Huda Khayrallah, Marcin Junczys-Dowmunt. (arxiv 2023)
 
+
+<h2 id="Others"> Others</h2>
+
+
+* [Complexity matching and lexical matching in monolingual and bilingual conversations](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/521155BB30A95701F818BE85F62B1659/S1366728919000774a.pdf/complexity-matching-and-lexical-matching-in-monolingual-and-bilingual-conversations.pdf).Sara Schneider,Adolfo G. Ramirez-Aristizabal,Carol Gavilan,Christopher T. Kello (2019)
+
